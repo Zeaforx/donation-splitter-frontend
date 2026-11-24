@@ -9,3 +9,4 @@ Copy `.env.example` to `.env.local` and set the backend URL, deployed splitter c
 The create form requires 2–10 distinct Stellar account addresses and percentages totaling exactly 100. The contract enforces these rules again. Donations are signed by the donor, and the receipt shows the resulting transaction hash.
 
 License: Apache-2.0.
+# donation-splitter-frontend
